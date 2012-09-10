@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file>images/cursors/plain.png</file>
+	<file>images/cursors/plain_pan.png</file>
+	<file>images/cursors/plain_rotate.png</file>
+	<file>images/cursors/plain_zoom.png</file>
+	<file>images/cursors/sel_rect.png</file>
+	<file>images/cursors/sel_rect_plus.png</file>
+	<file>images/cursors/sel_rect_minus.png</file>
+	<file>images/open.png</file>
+	<file>images/save.png</file>
+	<file>images/property.png</file>
+	<file>images/snapshot.png</file>
+	<file>images/points.png</file>
+	<file>images/lines.png</file>
+	<file>images/backlines.png</file>
+	<file>images/flatlines.png</file>
+	<file>images/flat.png</file>
+	<file>images/smooth.png</file>
+	<file>images/textures.png</file>
+	<file>images/bbox.png</file>
+	<file>images/lighton.png</file>
+	<file>images/lightoff.png</file>
+	<file>images/number.png</file>
+	<file>images/selected.png</file>
+	<file>images/no_select.png</file>
+	<file>images/rect_select.png</file>
+</qresource>
+</RCC>
